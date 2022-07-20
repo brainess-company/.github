@@ -1,10 +1,10 @@
-## Hi there 👋
+![Oracle Logo](https://github.com/Muniz-Autocenter/.github/blob/main/profile/fundo1.png)
 
 # Muniz Autocenter
 
 Com uma iniciativa técnologica, a rede de auto center Muniz que conta com mais de 70 lojas em torno do Brasil iniciou sou trajetória em um novo mundo. Dona da famosa [Muniz AutoCenter](https://munizautocenter.com.br/) e [4k Franchising](https://4kfranchising.com.br/), conta com profissionais e parceiros em todo o Brasil.
 
-Mas o que nos guia?
+**Mas o que nos guia?**
 
 Nossa missão é de proporcionar estabilidade e evolução para aqueles que confiam no nosso trabalho.
 
@@ -12,7 +12,7 @@ Nossa missão é de proporcionar estabilidade e evolução para aqueles que conf
 
 [Linkedin](https://br.linkedin.com/company/munizautocenter)
 
-[Facebook](https://pt-br.facebook.com/munizautocentermaringa/)<br><br>
+[Facebook](https://pt-br.facebook.com/munizautocentermaringa/)<br>
 
 ## Todas as Organizações de desenvolvimento da Muniz.
 
