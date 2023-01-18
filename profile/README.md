@@ -1,4 +1,4 @@
-![Oracle Logo](https://github.com/Muniz-Autocenter/.github/blob/main/profile/fundo1.png)
+![Oracle Logo](https://github.com/Muniz-Autocenter/.github/blob/main/profile/fundo.jpg)
 
 # Muniz Autocenter
 
